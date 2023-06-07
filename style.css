@@ -1,5 +1,5 @@
-:root{--cordefundo:#0080ff;
---cor2:#192021;}
+:root{--cordefundo:#EBECEE;
+--cor2:#FFFFFF;}
 
 body{background-color: var(--cordefundo);}
 
