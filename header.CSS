@@ -23,3 +23,8 @@
 .conteiner__imagem{
     padding: 1em;
 }
+
+
+.conteiner__botao:checked~.lista-menu{
+    display: block;
+}
